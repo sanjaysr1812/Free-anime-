@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glowing ring -->
+    <path
+        android:pathData="M54,24A30,30 0,1 1,24 54A30,30 0,0 1,54 24Z"
+        android:strokeWidth="3.5"
+        android:fillColor="#14162B">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="24"
+                android:startY="24"
+                android:endX="84"
+                android:endY="84"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#B388FF" />
+                <item android:offset="1.0" android:color="#651FFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Stylized AnimeFlix Play Emblem -->
+    <path
+        android:pathData="M45,38L71,54L45,70Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="45"
+                android:startY="38"
+                android:endX="71"
+                android:endY="70"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#E040FB" />
+                <item android:offset="0.5" android:color="#9575CD" />
+                <item android:offset="1.0" android:color="#7C4DFF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Inner highlight triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,43.5L65,54L48,64.5Z" />
+    <!-- Sparkle accent -->
+    <path
+        android:fillColor="#EA80FC"
+        android:pathData="M70,32L72,37L77,39L72,41L70,46L68,41L63,39L68,37Z" />
+</vector>

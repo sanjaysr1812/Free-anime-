@@ -1,0 +1,19 @@
+{
+  "name": "AnimeFlix - Premium Legal Anime Streaming",
+  "short_name": "AnimeFlix",
+  "description": "Discover and stream official free anime titles with luxury dark UI, genre filters, and offline library.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090A10",
+  "theme_color": "#090A10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "video"]
+}

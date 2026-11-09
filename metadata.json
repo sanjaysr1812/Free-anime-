@@ -1,0 +1,6 @@
+{
+  "name": "AnimeFlix",
+  "description": "Premium legal anime discovery and streaming app with multi-genre filtering, official free streams, and personal library tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
