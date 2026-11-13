@@ -1,5 +1,13 @@
 # AnimeFlix — Legal Anime Discovery & Streaming Platform
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Metadata-Jikan%20API-2E51A2" alt="Jikan API" />
+</p>
+
+
 AnimeFlix is a mobile-first, premium-quality anime discovery and authorized free-streaming application built with **Kotlin**, **Jetpack Compose**, **Material Design 3**, **Room SQLite**, **DataStore Preferences**, **Coil**, and the **Jikan v4 REST API** (MyAnimeList open metadata).
 
 ## Key Features
