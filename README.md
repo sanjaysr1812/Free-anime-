@@ -42,3 +42,10 @@ AnimeFlix is a mobile-first, premium-quality anime discovery and authorized free
 - **Installing on Android Home Screen**:
   - As a native Android APK built in AI Studio, you can export and install the signed APK directly onto any Android 7.0+ device.
   - When accessing a web/PWA deployment on Chrome for Android: tap the browser's **⋮ (More)** menu and select **Add to Home screen** / **Install app** to launch in standalone display mode.
+
+
+## Contributing
+Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+### Good first issue
+- [Add unit tests for combined genre filters](../../issues/1)
