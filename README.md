@@ -48,4 +48,4 @@ AnimeFlix is a mobile-first, premium-quality anime discovery and authorized free
 Contributions are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ### Good first issue
-- [Add unit tests for combined genre filters](../../issues/1)
+- [Add unit tests for combined genre filters](https://github.com/sanjaysr1812/Free-anime-/issues/1)
